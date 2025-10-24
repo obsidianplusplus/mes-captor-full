@@ -279,10 +279,3 @@ sudo systemctl enable --now mes-sniffer
 ## 变更记录
 
 - v0.1.0 初版：抓包、BoltDB 入库、Web/CLI 重传与过滤
-
----
-
-## 许可证
-
-内部工具示例（如需开源请补充 LICENSE）。
-
